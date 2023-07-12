@@ -1,8 +1,6 @@
-## WorkApp App Project Description
-**WorkApp** is a Domestic Violence Safety Planning application that acts as a hub to connect domestic violence victims with resources and trauma-informed specialists that can help develop an individualized safety plan with them. Statistically, the most dangerous time for domestic violence victims is when they leave their abuser(s). For this reason, careful safety planning for is necessary to ensure their safe escape, access to resources, and to assist them with regaining long-term independence and continued safety. Many domestic violence victim(s) feel trapped in situations that feel impossible to escape, stay out of fear that escaping will be too dangerous, too difficult, and/or unachievable, and they are unaware of local and remote resources available to them to develop a safe escape plan, regain abuse-free independence, and maintain long-term safety. Often times, these resources are inaccessible to victim(s), and the mission behind the **WorkApp** app is to help overcome these obstacles with features prioritize victim safety and confidentiality; such as a quick-exit button on all pages of the application, and secure login with JWT tokens. 
-In addition to safely escaping domestic violence situations, it is important that victim(s) receive access to trauma-informed care, counseling, support groups, domestic violence educational resources, safety training, and resources such as grants, scholarships, and charitable organizations that will help them regain independence and rebuild their lives. Some victims are codependent upon their abusers, experience trauma-bonding, and they leave abusive situations having lost housing, finances, belongings, transportation, relationships of various sorts, and even their support-network in order to safely escape. It is important that victim(s) can visualize, experience, and begin to see a plan-of-action form and be implemented that will help them regain independence while maintaining safety.
-**WorkApp** links domestic violence victims to informative domestic violence resources and confidential services provided by trauma-informed specialists within closest vicinity of the victims zipcode; such as:
-  ### Examples of Links to Resources
+# WorkApp App Project Description
+
+
 
 
 ## Project Team Members
@@ -17,7 +15,7 @@ In addition to safely escaping domestic violence situations, it is important tha
 - Styled with CSS
 - Responsive
   
-## **WorkApp App Stretch Goals**
+## WorkApp App Stretch Goals
 These stretch goals are NOT required, however, are goals we strive to reach after completing the project requirements.
   ### Stretch Goal 1:
   - Create a User Registration and Login (using Node, Express, My SQL, Javascript, HTML, CSS) with JWT tokens to authenticate and authorize users (Andraya/Heather leading with collaboration from team)
