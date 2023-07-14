@@ -1,8 +1,6 @@
 # WorkApp App Project Description
 
 
-
-
 ## Project Team Members
 - Jeremy Bosquez (Software Developer)
 
